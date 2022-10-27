@@ -1,0 +1,51 @@
+==== Projektbezeichnung:
+* Vorratchecker
+
+==== Projektauftraggeber:
+* HTBLA Leonding, Auftraggeber: Herr Prof. Stütz, Kontakte: David Lehner 06641903782, Fröller Felix, Anton Cao, Saydam Arda
+
+==== Projekthintergrund:
+* Manchmal hat man das Problem, dass man nicht weis was derzeit an Lebensmitteln, Gewürzen usw. zu Hause ist. Das sollte mit einer App/Website verhindert werden, und da auch noch helfen zu sparen.
+
+==== Projektendergebnis:
+* Erreicht werden soll eine App/Website worin man den aktuellen Bestand der Lebensmittel, o.ä, ablesen, speichern, und ändern kann. Dazu soll es möglich sein, passende Prospekte auf einem Blick zu haben. Wenn dies erreicht wurde, ist das Projekt erfolgreich. Das sollte bis zum Ende des Schuljahres geschafft sein. Ein messbares Ergebnis könnte die Einsparung bei jeweiligen Einkäufen sein.
+
+=== Projektziel:
+* Eine genaue ablesbarkeit, wie viel von einem Produkt noch zu Hause ist. Erinnerung, wenn etwas knapp werden könnte und vorschlagen von Prospekten, welche die fehlenden Produkte zu Hause beinhalten könnten.
+
+==== Projektbeschreibung:
+* Wir wollten das Projekt schrittweise aufbauen. Das heißt zuerst die grundlegenden Funktionen festlegen. Danach werden die benötigten Technologien bestimmt. Darauf folgt das Design und dann der Prozess des Aufbauens.
+Beim Aufbauen hätten wir zuerst das Grundgerüst d.h. Design aufgestellt und dann die restlichen Funktionen implementiert.
+
+==== Projektphasen / Meilensteine:
+|===
+|Phase|Meilenstein / Ergebnis|Soll-Termin
+|Technologien|Bestimmung der Technologien / festgelegte Technologien|unbekannt
+|Design|Grundlegendes Design festlegen / fertiges Design, welches sich durch die komplette App durchzieht|unbekannt
+|Aufbauen|Grundgerüst fertigen / fertiger Aufbauwillst mir kurz beim Projektauftrag helfen? der App ohne Funktionen|unbekannt
+|Implementation|Das Grundgerüst ausimplementieren / Funktionen für die App fertigen|unbekannt
+|===
+
+==== Projektrisiken
+* Zu wenig Zeit
+* komplikationen mit Technologien
+* keine Möglichkeit die richtigen Prospekte zu finden
+
+==== Projektstart
+* Das Projekt wird mit Beschluss von Herrn Professor Stütz gestartet
+
+==== Projektende
+* Das Projekt soll bis zum Ende des Schuljahres beendet werden.
+
+==== Projektressourcen
+* Es wird nichts zusätzlich an Personal gebraucht. (Nur die 4 Mitglieder)
+* An Material werden nur Rechner benötigt, die bereits jeder besitzt.
+* Es kann sein, dass ein Raspberry Pi benötigt wird. Dieser muss nicht zusätzlich gekauft werden.
+
+==== Projektorganisation
+* Projektleiter: David Lehner
+* Projektteam: Cao Anton, Fröller Felix, Saydam Arda
+
+==== Abschluss des Projektauftrags:
+* 27.10.22, Cao Anton, Fröller Felix, Lehner David, Saydam Arda
+
