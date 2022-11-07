@@ -1,0 +1,26 @@
+@startuml
+'https://plantuml.com/object-diagram
+
+class User{
+String email
+String username
+String password
+}
+class Food{
+String name
+Date expirationDate
+int quantity
+}
+
+class Storage{
+List<Food> foods
+void addFood()
+void removeFood()
+void edit()
+void ExpirationNotification()
+}
+
+User --> Food
+Food --> Storage
+
+@enduml
