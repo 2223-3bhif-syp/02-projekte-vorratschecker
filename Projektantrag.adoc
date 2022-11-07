@@ -1,10 +1,18 @@
 = Syp Projekt 2022/23
 
+
+
 == Projektbezeichnung:
 * Vorratchecker
 
 == Projektauftraggeber:
-* HTBLA Leonding, Auftraggeber: Herr Prof. Stütz, Kontakte: David Lehner 06641903782, Fröller Felix, Anton Cao, Saydam Arda
+* HTBLA Leonding, Auftraggeber: Herr Prof. Stütz,
+
+== Kontakte:
+Kontakte: David Lehner d.lehner2@students.htl-leonding.ac.at, +
+Fröller Felix f.froeller@stundents.htl-leonding.ac.at, +
+Anton Cao a.cao@students.htl-leonding.ac.at, +
+Saydam Arda a.saydam@students.htl-leonding.ac.at
 
 == Projekthintergrund:
 * Manchmal hat man das Problem, dass man nicht weiß, was derzeit an Lebensmitteln, Gewürzen usw. zu Hause ist. Das sollte mit einer App/Website verhindert werden, und da auch noch helfen zu sparen.
