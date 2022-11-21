@@ -15,7 +15,7 @@ Anton Cao a.cao@students.htl-leonding.ac.at, +
 Saydam Arda a.saydam@students.htl-leonding.ac.at
 
 == Projekthintergrund:
-* Manchmal hat man das Problem, dass man nicht weiß, was derzeit an Lebensmitteln, Gewürzen usw. zu Hause ist. Das sollte mit einer App/Website verhindert werden, und da auch noch helfen zu sparen.
+* Manchmal hat man das Problem, dass man nicht weiß, was derzeit an Lebensmitteln, Gewürzen usw. zu Hause ist. Auch findet man teilweise nicht die richtigen Rabatte.
 
 == Projektendergebnis:
 * Erreicht werden soll eine App/Website worin man den aktuellen Bestand der Lebensmittel, o.ä, ablesen, speichern, und ändern kann. Dazu soll es möglich sein, passende Prospekte auf einem Blick zu haben. Wenn dies erreicht wurde, ist das Projekt erfolgreich. Das sollte bis zum Ende des Schuljahres geschafft sein. Ein messbares Ergebnis könnte die Einsparung bei jeweiligen Einkäufen sein.
