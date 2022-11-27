@@ -6,4 +6,4 @@ Contact: d.lehner2@students.htl-leonding.ac.at
 https://2223-3bhif-syp.github.io/02-projekte-vorratschecker/Projektantrag[Projektantrag]
 
 == Klassendiagramm
-https://2223-3bhif-syp.github.io/02-projekte-vorratschecker/plantuml/ClassDiagramm.puml[Klassendiagramm]
+https://2223-3bhif-syp.github.io/02-projekte-vorratschecker/ClassDiagramm.puml[Klassendiagramm]
