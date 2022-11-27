@@ -1,2 +1,2 @@
 # Vorratschecker
-<a href="https://github.com/2223-3bhif-syp/02-projekte-vorratschecker.git" target="_blank">Documentation<a/>
+<a href="https://2223-3bhif-syp.github.io/02-projekte-vorratschecker/" target="_blank">Documentation<a/>
