@@ -5,8 +5,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="Asciidoctor 2.0.18">
+<meta name="author" content="== Plantuml">
 <link rel="icon" type="image/png" href="themes/favicon.png">
-<title>Projektantrag</title>
+<title>Klassendiagramm</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
 <style>
 /*! Asciidoctor default stylesheet | MIT License | https://asciidoctor.org */
@@ -438,36 +439,52 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </style>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
-<body class="article toc2 toc-left">
+<body class="article">
 <div id="header">
-<div id="toc" class="toc2">
-<div id="toctitle">Table of Contents</div>
-<ul class="sectlevel1">
-<li><a href="#_projektantrag">1. Projektantrag</a></li>
-<li><a href="#_klassendiagramm">2. Klassendiagramm</a></li>
-</ul>
+<h1>Klassendiagramm</h1>
+<div class="details">
+<span id="author" class="author">== Plantuml</span><br>
+<span id="revdate">----</span>
 </div>
 </div>
 <div id="content">
+<div class="paragraph">
+<p>@startuml
+'https://plantuml.com/object-diagram</p>
+</div>
+<div class="paragraph">
+<p>class User{
+String email
+String username
+String password
+}</p>
+</div>
+<div class="paragraph">
+<p>class Food{
+String name
+Date expirationDate
+int quantity
+}</p>
+</div>
+<div class="paragraph">
+<p>class Storage{
+List&lt;Food&gt; foods
+void addFood()
+void removeFood()
+void edit()
+void ExpirationNotification()
+}</p>
+</div>
+<div class="paragraph">
+<p>User -&#8594; Food
+Food -&#8594; Storage</p>
+</div>
+<div class="paragraph">
+<p>@enduml</p>
+</div>
 <div class="listingblock">
 <div class="content">
-<pre>Contact: d.lehner2@students.htl-leonding.ac.at</pre>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_projektantrag"><a class="anchor" href="#_projektantrag"></a>1. Projektantrag</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p><a href="https://2223-3bhif-syp.github.io/02-projekte-vorratschecker/Projektantrag">Projektantrag</a></p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_klassendiagramm"><a class="anchor" href="#_klassendiagramm"></a>2. Klassendiagramm</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p><a href="https://2223-3bhif-syp.github.io/02-projekte-vorratschecker/plantUmlLinked">Klassendiagramm</a></p>
-</div>
+<pre></pre>
 </div>
 </div>
 </div>
