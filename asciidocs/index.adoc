@@ -1,9 +1,7 @@
 ----
-Contact: d.lehner2@students.htl-leonding.ac.at
+-Team: Anton Cao, Felix Fröller, Saydam Arda, David Lehner
+-Kontakt: d.lehner2@stundents.htl-leonding.ac.at
 ----
 
-== Projektantrag
-https://2223-3bhif-syp.github.io/02-projekte-vorratschecker/Projektantrag[Projektantrag]
-
-== Klassendiagramm
-https://2223-3bhif-syp.github.io/02-projekte-vorratschecker/plantUmlLinked[Klassendiagramm]
+== https://2223-3bhif-syp.github.io/02-projekte-vorratschecker/Projektantrag[Projektantrag]
+== https://2223-3bhif-syp.github.io/02-projekte-vorratschecker/plantUmlLinked[Klassendiagramm]
