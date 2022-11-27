@@ -1,0 +1,9 @@
+----
+Contact: d.lehner2@students.htl-leonding.ac.at
+----
+
+== Project order
+https://2223-3bhif-syp.github.io/02-projekte-vorratschecker/Projektantrag.adoc[Project order]
+
+== Klassendiagramm
+https://2223-3bhif-syp.github.io/02-projekte-vorratschecker/plantuml/ClassDiagramm.puml[Klassendiagramm]
