@@ -444,53 +444,47 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <h1>Klassendiagramm</h1>
 <div class="details">
 <span id="author" class="author">== Plantuml</span><br>
-<span id="revdate">----</span>
+<span id="revnumber">version ,</span>
+<span id="revdate">png]</span>
 </div>
 </div>
 <div id="content">
-<div class="paragraph">
-<p>@startuml
-'https://plantuml.com/object-diagram</p>
-</div>
-<div class="paragraph">
-<p>class User{
+<div class="listingblock">
+<div class="content">
+<pre>@startuml
+'https://plantuml.com/object-diagram
+
+class User{
 String email
 String username
 String password
-}</p>
-</div>
-<div class="paragraph">
-<p>class Food{
+}
+
+class Food{
 String name
 Date expirationDate
 int quantity
-}</p>
-</div>
-<div class="paragraph">
-<p>class Storage{
+}
+
+class Storage{
 List&lt;Food&gt; foods
 void addFood()
 void removeFood()
 void edit()
 void ExpirationNotification()
-}</p>
-</div>
-<div class="paragraph">
-<p>User -&#8594; Food
-Food -&#8594; Storage</p>
-</div>
-<div class="paragraph">
-<p>@enduml</p>
-</div>
-<div class="listingblock">
-<div class="content">
-<pre></pre>
+}
+
+User --&gt; Food
+Food --&gt; Storage
+
+@enduml</pre>
 </div>
 </div>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2022-11-27 13:24:59 UTC
+Version <br>
+Last updated 2022-11-27 13:26:51 UTC
 </div>
 </div>
 </body>
