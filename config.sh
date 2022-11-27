@@ -1,3 +1,3 @@
 SLIDES=false
-INPUTPATH=asciidocs
+INPUTPATH=asciidoc
 OUTPUTPATH=dist
