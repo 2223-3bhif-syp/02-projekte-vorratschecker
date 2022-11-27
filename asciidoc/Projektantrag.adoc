@@ -22,18 +22,20 @@ Saydam Arda a.saydam@students.htl-leonding.ac.at
 
 == Projektziel:
 * Eine genaue Ablesbarkeit, wie viel von einem Produkt noch zu Hause ist. Erinnerung, wenn etwas knapp werden könnte und vorschlagen von Prospekten, welche die fehlenden Produkte zu Hause beinhalten könnten.
+Messbarkeit: Wieviel Abfall gespart wurde, durch Erinnerung, wenn etwas abläuft. Gespartes Geld durch vorgeschlagene Angebote.
+
 
 == Projektbeschreibung:
-* Wir wollten das Projekt schrittweise aufbauen. Das heißt zuerst die grundlegenden Funktionen festlegen. Danach werden die benötigten Technologien bestimmt. Darauf folgt das Design und dann der Prozess des Aufbauens.
-Beim Aufbauen hätten wir zuerst das Grundgerüst d.h. Design aufgestellt und dann die restlichen Funktionen implementiert.
+* Wir bauen das Projekt schrittweise aufbauen. Das heißt zuerst die grundlegenden Funktionen festlegen. Danach werden die benötigten Technologien bestimmt. Darauf folgt das Design und dann der Prozess des Aufbauens.
+Beim Aufbauen bauen wir zuerst das Grundgerüst d.h. Design aufgestellt und dann die restlichen Funktionen implementiert.
 
 == Projektphasen / Meilensteine:
 |===
 |Phase|Meilenstein / Ergebnis|Soll-Termin
-|Technologien|Bestimmung der Technologien / festgelegte Technologien|unbekannt
-|Design|Grundlegendes Design festlegen / fertiges Design, welches sich durch die komplette App durchzieht|unbekannt
-|Aufbauen|Grundgerüst fertigen / fertiger Aufbau der App ohne Funktionen|unbekannt
-|Implementation|Das Grundgerüst ausimplementieren / Funktionen für die App fertigen|unbekannt
+|Technologien|Bestimmung der Technologien / festgelegte Technologien|1.2.2023
+|Design|Grundlegendes Design festlegen / fertiges Design, welches sich durch die komplette App durchzieht|1.3.2023
+|Aufbauen|Grundgerüst fertigen / fertiger Aufbau der App ohne Funktionen|1.5.2023
+|Implementation|Das Grundgerüst ausimplementieren / Funktionen für die App fertigen|Ende des Schuljahres
 |===
 
 == Projektrisiken
