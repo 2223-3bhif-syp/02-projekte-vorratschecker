@@ -1,0 +1,5 @@
+= Klassendiagramm
+== Plantuml
+----
+include::plantuml/ClassDiagramm.puml[]
+----
