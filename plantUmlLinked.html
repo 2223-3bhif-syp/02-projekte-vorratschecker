@@ -5,7 +5,6 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="Asciidoctor 2.0.18">
-<meta name="author" content="== Plantuml">
 <link rel="icon" type="image/png" href="themes/favicon.png">
 <title>Klassendiagramm</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
@@ -439,52 +438,31 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </style>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
-<body class="article">
+<body class="article toc2 toc-left">
 <div id="header">
 <h1>Klassendiagramm</h1>
-<div class="details">
-<span id="author" class="author">== Plantuml</span><br>
-<span id="revnumber">version ,</span>
-<span id="revdate">png]</span>
+<div id="toc" class="toc2">
+<div id="toctitle">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#_plantuml">1. Plantuml</a></li>
+</ul>
 </div>
 </div>
 <div id="content">
-<div class="listingblock">
+<div class="sect1">
+<h2 id="_plantuml"><a class="anchor" href="#_plantuml"></a>1. Plantuml</h2>
+<div class="sectionbody">
+<div class="imageblock">
 <div class="content">
-<pre>@startuml
-'https://plantuml.com/object-diagram
-
-class User{
-String email
-String username
-String password
-}
-
-class Food{
-String name
-Date expirationDate
-int quantity
-}
-
-class Storage{
-List&lt;Food&gt; foods
-void addFood()
-void removeFood()
-void edit()
-void ExpirationNotification()
-}
-
-User --&gt; Food
-Food --&gt; Storage
-
-@enduml</pre>
+<img src="images/structure.png" alt="structure" width="210" height="456">
+</div>
+</div>
 </div>
 </div>
 </div>
 <div id="footer">
 <div id="footer-text">
-Version <br>
-Last updated 2022-11-27 13:26:51 UTC
+Last updated 2022-11-27 13:29:56 UTC
 </div>
 </div>
 </body>
