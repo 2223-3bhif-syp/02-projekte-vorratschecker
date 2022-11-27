@@ -1,5 +1,6 @@
 = Klassendiagramm
 == Plantuml
+[plantuml,structure,png]
 ----
 include::plantuml/ClassDiagramm.puml[]
 ----
