@@ -18,11 +18,11 @@ Saydam Arda a.saydam@students.htl-leonding.ac.at
 * Manchmal hat man das Problem, dass man nicht weiß, was derzeit an Lebensmitteln, Gewürzen usw. zu Hause ist. Auch findet man teilweise nicht die richtigen Rabatte.
 
 == Projektendergebnis:
-* Erreicht werden soll eine App/Website worin man den aktuellen Bestand der Lebensmittel, o.ä, ablesen, speichern, und ändern kann. Dazu soll es möglich sein, passende Prospekte auf einem Blick zu haben. Wenn dies erreicht wurde, ist das Projekt erfolgreich. Das sollte bis zum Ende des Schuljahres geschafft sein. Ein messbares Ergebnis könnte die Einsparung bei jeweiligen Einkäufen sein.
+* Erreicht werden soll eine App/Website, worin man den aktuellen Bestand der Lebensmittel, o.ä, ablesen, speichern, und ändern kann. Dazu soll es möglich sein, passende Prospekte auf einem Blick zu haben. Ein messbares Ergebnis könnte die Einsparung bei jeweiligen Einkäufen sein.
 
 == Projektziel:
 * Eine genaue Ablesbarkeit, wie viel von einem Produkt noch zu Hause ist. Erinnerung, wenn etwas knapp werden könnte und vorschlagen von Prospekten, welche die fehlenden Produkte zu Hause beinhalten könnten.
-Messbarkeit: Wieviel Abfall gespart wurde, durch Erinnerung, wenn etwas abläuft. Gespartes Geld durch vorgeschlagene Angebote.
+Messbarkeit: Wie viel Abfall gespart wurde, durch Erinnerung, wenn etwas abläuft. Gespartes Geld durch vorgeschlagene Angebote.
 
 
 == Projektbeschreibung:
