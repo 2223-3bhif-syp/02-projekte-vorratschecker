@@ -7,4 +7,4 @@
 Aufgabenstellung: Vermeidung von Lebensmittelverschwendung und das Sparen bei Einkäufen
   
 # Probleme
-Ablaufen des Mindesthaltbarkeitsdatum, Übersehen von Rabatten
+Ablaufen des Mindesthaltbarkeitsdatums, Übersehen von Rabatten
