@@ -5,4 +5,6 @@
 # Kurze Beschreibung zum Projekt
 
 Aufgabenstellung: Vermeidung von Lebensmittelverschwendung und das Sparen bei Einkäufen
-<br> Probleme: Ablaufen des Mindesthaltbarkeitsdatum, Übersehen von Rabatten
+  
+# Probleme
+Ablaufen des Mindesthaltbarkeitsdatum, Übersehen von Rabatten
