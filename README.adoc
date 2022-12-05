@@ -1,0 +1,12 @@
+= Vorrtaschecker
+:hide-uri-scheme:
+:hardbreaks:
+
+== Zu den Asciidoc Dokumenten:
+https://2223-3bhif-syp.github.io/02-projekte-vorratschecker/
+
+== Kurze Beschreibung zum Projekt
+* Aufgabenstellung: Vermeidung von Lebensmittelverschwendung und das Sparen bei Einkäufen
+
+== Probleme
+* Ablaufen des Mindesthaltbarkeitsdatums, Übersehen von Rabatten
