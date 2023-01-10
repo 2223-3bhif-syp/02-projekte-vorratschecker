@@ -1,0 +1,31 @@
+= Pflichtenheft
+
+|===
+|Projektbezeichnung|Vorratschecker
+|Projektleiter|David Lehner
+|Erstellt am|10.01.2023
+|Letzte Änderung am|10.01.2023
+|Status|in Bearbeitung
+|Version|1.0
+|===
+
+== Änderungsverlauf
+
+|===
+|Nr.|Datum|Version|Geänderte Kapitel|Art der Änderung|Autor
+|1|10.01.2023|1.0|Alle|Erstellung|Felix Fröller
+|===
+
+== Beschreibung der Ausgangslage
+
+== Ist-Zustand
+
+== Zielsetzung
+
+== Anforderungen
+
+== Mengengerüst
+
+== Aufbau und Inhalte der Offerte
+
+== Administratives
